@@ -11,13 +11,13 @@ This question helps us understand the **content distribution** on Netflix and wh
 1. **Loaded dataset** (`netflix_titles.csv`) using pandas.  
 2. **Data Cleaning**  
    - Removed duplicates.  
-   - Filled missing country values with `"Unknown"`.  
+   - Filled missing country, cast, and director values with `"Unknown"`.  
    - Converted `date_added` column to datetime format.  
+   - Removed rows with no valid `date_added`.  
 3. **Analysis**  
    - Counted the number of *Movies* and *TV Shows* using `value_counts()`.  
 4. **Visualization**  
-   - Created a bar chart with matplotlib to show distribution.  
-   - Saved the chart in the `images/` folder.  
+   - Created a bar chart and pie chart with matplotlib to show distribution.   
 
 ---
 
@@ -28,7 +28,8 @@ This question helps us understand the **content distribution** on Netflix and wh
 ---
 
 ## Insight
-Netflix has significantly more **Movies than TV Shows**, but the rise in TV Show releases in recent years suggests a **shift towards serialized content** to engage users longer.  
+Netflix has significantly more **Movies than TV Shows**, but the rise in TV Show releases in recent years suggests 
+a **shift towards serialized content** to engage users longer.  
 
 ---
 
