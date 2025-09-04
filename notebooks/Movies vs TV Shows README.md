@@ -17,7 +17,7 @@ This question helps us understand the **content distribution** on Netflix and wh
 3. **Analysis**  
    - Counted the number of *Movies* and *TV Shows* using `value_counts()`.  
 4. **Visualization**  
-   - Created a bar chart and pie chart with matplotlib to show distribution.   
+   - Created a pie chart with matplotlib to show distribution.   
 
 ---
 
