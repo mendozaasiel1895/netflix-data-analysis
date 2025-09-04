@@ -7,7 +7,7 @@ A data cleaning and exploratory analysis project using Python (Pandas + Matplotl
 - `notebooks/` → analysis in Jupyter Notebook
 - `README.md` → documentation
 
-## 🎯 Objectives / Business Questions
+##  Objectives / Business Questions
 The analysis focuses on answering key business questions:  
 1. How many **Movies vs. TV Shows** are on Netflix?  
 2. Which **countries produce the most content**?  
@@ -17,13 +17,13 @@ The analysis focuses on answering key business questions:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Python** → pandas, matplotlib, seaborn  
 - **Jupyter Notebook** (via VS Code)  
 - **Git & GitHub** → version control and portfolio showcase  
 - **Dataset Source**: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## 🔎 Project Workflow
+## Project Workflow
 1. **Data Cleaning** → handle duplicates, missing values, and date formatting.  
 2. **Exploratory Data Analysis (EDA)** → summarize dataset and find patterns.  
 3. **Visualizations** → create charts for business insights.  
@@ -31,7 +31,7 @@ The analysis focuses on answering key business questions:
 
 ---
 
-## 📊 Example Visualizations
+## Example Visualizations
 - **Pie Chart** → Distribution of Movies vs. TV Shows  
 - **Bar Chart** → Top 10 countries producing Netflix content  
 - **Line Chart** → Growth of Netflix content over the years  
